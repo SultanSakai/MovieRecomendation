@@ -120,16 +120,15 @@ Our model demonstrated excellent performance with a 99.75% accuracy on test data
 Search | Kaggle. (n.d.). https://www.kaggle.com/search?q=Movie+Recommendation+System
 
 ## Roles of Members
-Team Lead / Data Scientist / Senior ML Developer: Tamerlan Kabdolla -  
+Created ML algorithm: Tamerlan Kabdolla -  
 
-Senior Data Miner and preparation / Data Analytic: Aitzhanov Sultan
+Hosting/Deploy on google cloud: Aitzhanov Sultan
 
-Senior Data Scientist / Data Miner: Vyacheslav Popov 
+Data Miner: Vyacheslav Popov 
 
-Senior Web Developer / Data Miner: Tugambayeva Aruzhan
+Web Developer / Data Miner: Tugambayeva Aruzhan
 
-Senior Project Manager / Data Miner: 
-Lyailya Dzhumagulova 
+Project Manager : Lyailya Dzhumagulova 
 
 ## Bonus
 

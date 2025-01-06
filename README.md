@@ -1,14 +1,10 @@
 # Machine learning based simple movie recomendation system
-## python version 3.11.10
 
-```pip install -r requirements.txt``` 
-### Team memebers:
+```
+docker build -t movie-recommendation .
+docker run -p 8080:8080 movie-recommendation
+``` 
 
-Tugambayeva Aruzhan;
-Lyailya Dzhumagulova;
-Aitzhanov Sultan; 
-Vyacheslav Popov;
-Tamerlan Kabdolla. 
 ## Main statements
 
 
@@ -87,13 +83,9 @@ Recommendation Generation:
 
 Based on the user's past whatched films, the system computes the cosine similarity of the user's film vectors with all available films in the dataset. Films with the highest similarity scores are recommended.
 
-## Coding
-
-You can find files with code by  this github link: https://github.com/TamerPC/MovieRecomndation
-
 ## Results and Performance Evaluation
 
-Model Accuracy: We achieved an accuracy of 99.75% on test data.
+Model Accuracy: We achieved an accuracy of 99.75% on the test data.
 
 Cosine Similarity: The cosine similarity is used to measure the closeness of films based on the encoder-generated vectors. The closer the cosine similarity value is to 1, the more similar the films are.
 
@@ -119,16 +111,6 @@ Our model demonstrated excellent performance with a 99.75% accuracy on test data
 
 Search | Kaggle. (n.d.). https://www.kaggle.com/search?q=Movie+Recommendation+System
 
-## Roles of Members
-Created ML algorithm: Tamerlan Kabdolla -  
-
-Hosting/Deploy on google cloud: Aitzhanov Sultan
-
-Data Miner: Vyacheslav Popov 
-
-Web Developer / Data Miner: Tugambayeva Aruzhan
-
-Project Manager : Lyailya Dzhumagulova 
 
 ## Bonus
 
